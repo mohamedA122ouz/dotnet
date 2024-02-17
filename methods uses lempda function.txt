@@ -1,0 +1,3 @@
+SingleOrDefualt();//
+Single();//if error return exception
+FirstOrDefualt();

@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\dotnet2\\supports\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\supports.bundle.scp.css",
+      "PackagePath": "staticwebassets\\supports.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\custom\\ajax-loader.gif"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\animate.css",
+      "PackagePath": "staticwebassets\\css\\custom\\animate.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\aos.css",
+      "PackagePath": "staticwebassets\\css\\custom\\aos.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\custom\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\custom\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\custom\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\custom\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\custom\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\css\\custom\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\custom\\flaticon.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\custom\\icomoon.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\custom\\ionicons.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\custom\\jquery.timepicker.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\custom\\magnific-popup.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\custom\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\custom\\owl.carousel.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\custom\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\style copy.css",
+      "PackagePath": "staticwebassets\\css\\custom\\style copy.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\custom\\style.css",
+      "PackagePath": "staticwebassets\\css\\custom\\style.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\aos.js",
+      "PackagePath": "staticwebassets\\js\\custom\\aos.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\custom\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\custom\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\google-map.js",
+      "PackagePath": "staticwebassets\\js\\custom\\google-map.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\custom\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\custom\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\js\\custom\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\custom\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\custom\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\custom\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\custom\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\custom\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\main.js",
+      "PackagePath": "staticwebassets\\js\\custom\\main.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\custom\\owl.carousel.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\custom\\popper.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\range.js",
+      "PackagePath": "staticwebassets\\js\\custom\\range.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\script.js",
+      "PackagePath": "staticwebassets\\js\\custom\\script.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\custom\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\js\\custom\\scrollax.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\dotnet2\\supports\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.supports.props",
+      "PackagePath": "build\\supports.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.supports.props",
+      "PackagePath": "buildMultiTargeting\\supports.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.supports.props",
+      "PackagePath": "buildTransitive\\supports.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.supports.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
