@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using supports.Data;
 using supports.Models;
 
 namespace supports.Controllers;
@@ -9,6 +10,12 @@ class Temp {
 }
 public class DashboardController : Controller
 {
+    protected readonly ApplictionDBContext _db;
+    public DashboardController(ApplictionDBContext db)
+    {
+        _db = db;
+
+    }
     public static List<Product>  _p = new();
     private Product temp = null;
     public IActionResult index(){
@@ -31,7 +38,9 @@ public class DashboardController : Controller
             else if (_p.Count >= 1) {
                 p.ID = _p.Max((el) => el.ID) + 1;
             }
-            DashboardController._p.Add(p);
+            //DashboardController._p.Add(p);
+            _db.Add(p);
+            _db.SaveChanges();
             return RedirectToAction("index");
         }
         Temp.P.Price = p.Price;
@@ -43,7 +52,8 @@ public class DashboardController : Controller
         return RedirectToAction("GetAllData");
     }
     public IActionResult GetAllData() {
-        return View(DashboardController._p);
+        var products = _db.products.ToList();
+        return View(products);
     }
     public IActionResult Remove(int id) {
         var Prod = _p.FirstOrDefault(el => el.ID == id);
