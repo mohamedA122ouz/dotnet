@@ -164,3 +164,4 @@ H:\dotnet2\supports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cry
 H:\dotnet2\supports\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 H:\dotnet2\supports\obj\Debug\net8.0\supports.csproj.AssemblyReference.cache
 H:\dotnet2\supports\obj\Debug\net8.0\supports.csproj.CopyComplete
+H:\dotnet2\supports\bin\Debug\net8.0\Dapper.dll

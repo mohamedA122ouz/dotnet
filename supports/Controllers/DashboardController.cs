@@ -30,14 +30,14 @@ public class DashboardController : Controller
     }
     [HttpPost]
     public IActionResult AddProduct([FromForm]Product p) {
+        p.Comp = p.Comp ?? new Company { Id = p.CompanyID, Name = "New Company" };
         if (!Temp.Editable) {
-
-            if (_p.Count == 0) {
-                p.ID = 1;
-            }
-            else if (_p.Count >= 1) {
-                p.ID = _p.Max((el) => el.ID) + 1;
-            }
+            //if (_p.Count == 0) {
+            //    p.ID = 1;
+            //}
+            //else if (_p.Count >= 1) {
+            //    p.ID = _p.Max((el) => el.ID) + 1;
+            //}
             //DashboardController._p.Add(p);
             _db.Add(p);
             _db.SaveChanges();

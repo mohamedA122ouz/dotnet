@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "x3/WhMKBzLhhQJM5bHGjd2YoU3dh6z+O+VbPAheQ/r5mGvdkdd0MZ+YTOPIcLc40QGY+E1CCHQbFI7Y0q1ePRg==",
+  "dgSpecHash": "gH/BCkdtkZ+ZEgB6GoovqM+UKf2JRTLZKk3Y8OYfnxP3CZGvTl1RsXZzfJ1tgFz6qsU18dbjVQ1UTb4WsUiBrA==",
   "success": true,
   "projectFilePath": "H:\\dotnet2\\supports\\supports.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Prime11\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Prime11\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\Prime11\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
     "C:\\Users\\Prime11\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Prime11\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Prime11\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
