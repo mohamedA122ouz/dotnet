@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Internal;
 using supports.Data;
 using supports.Models;
 
@@ -29,8 +30,8 @@ public class DashboardController : Controller
         return View();
     }
     [HttpPost]
-    public IActionResult AddProduct([FromForm]Product p) {
-        p.Comp = p.Comp ?? new Company { Id = p.CompanyID, Name = "New Company" };
+    public IActionResult AddProduct(Product p) {
+        //p.Comp = p.Comp ?? new Company { Id = p.CompanyID, Name = "New Company" };
         if (!Temp.Editable) {
             //if (_p.Count == 0) {
             //    p.ID = 1;
@@ -39,7 +40,7 @@ public class DashboardController : Controller
             //    p.ID = _p.Max((el) => el.ID) + 1;
             //}
             //DashboardController._p.Add(p);
-            _db.Add(p);
+            _db.products.Add(p);
             _db.SaveChanges();
             return RedirectToAction("index");
         }
@@ -56,8 +57,10 @@ public class DashboardController : Controller
         return View(products);
     }
     public IActionResult Remove(int id) {
-        var Prod = _p.FirstOrDefault(el => el.ID == id);
-        _p.Remove(Prod);
+        //var Prod = _p.FirstOrDefault(el => el.ID == id);
+        //_p.Remove(Prod);
+        var prod = _db.products.ToList<Product>().FirstOrDefault<Product>(el => el.ID == id);
+        _db.Remove(prod);
         return RedirectToAction("GetAllData");
     }
     public IActionResult Edit(int id) {

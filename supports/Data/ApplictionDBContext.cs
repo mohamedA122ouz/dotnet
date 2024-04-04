@@ -9,7 +9,11 @@ namespace supports.Data {
         }
         public DbSet<Product> products { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder) {
-            modelBuilder.Entity<Product>();
+            modelBuilder.Entity<Company>().HasData(
+                new Company { Id = 1, Name = "nike" },
+                new Company { Id = 2,Name = "addidas"}
+            );
+
         }
     }
 }

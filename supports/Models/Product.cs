@@ -17,6 +17,13 @@ public class Product {
 
     public int CompanyID { get; set; }
     [ForeignKey("CompanyID")]
-    public Company Comp { get; set; }
-    
+    public Company? Comp { get; set; }
+
+    public void ChangeTo(Product ob2)
+    {
+        this.Price = ob2.Price;
+        this.Quantity = ob2.Quantity;
+        this.enableSize = ob2.enableSize;
+        this.CompanyID = ob2.CompanyID;
+    }
 }
