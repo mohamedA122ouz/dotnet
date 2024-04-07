@@ -1,22 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\dotnet2\\supports\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|e:\\dotnet2\\supports\\controllers\\api\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\migrations\\20240407113718_userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\blazorapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\migrations\\20240407152433_userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6DB5-57F6-41D2-8788-FD0EBB9658F3}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\student\\desktop\\dotnet2\\blazorapp1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|c:\\users\\student\\desktop\\dotnet2\\supports\\supports.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|solutionrelative:supports.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|c:\\users\\student\\desktop\\dotnet2\\supports\\data\\applictiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|solutionrelative:data\\applictiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|c:\\users\\student\\desktop\\dotnet2\\supports\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|c:\\users\\student\\desktop\\dotnet2\\supports\\controllers\\api\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|solutionrelative:controllers\\api\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|e:\\dotnet2\\supports\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|c:\\users\\student\\desktop\\dotnet2\\supports\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|e:\\dotnet2\\supports\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|c:\\users\\student\\desktop\\dotnet2\\supports\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|e:\\dotnet2\\supports\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5EC493B9-26CE-4FE7-A57A-69A7BE8F11B9}|supports.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +73,254 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\dotnet2\\supports\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "E:\\dotnet2\\supports\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAABAAAABAzczMzMwcwBUAAAAYAAAA",
+              "Title": "20240407113718_UserData.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Migrations\\20240407113718_UserData.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Migrations\\20240407113718_UserData.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Migrations\\20240407113718_UserData.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Migrations\\20240407113718_UserData.cs",
+              "ViewState": "AQIAAHYAAAAA6//////9vwoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T15:57:26.834Z"
+              "WhenOpened": "2024-04-07T11:37:19.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlazorApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\BlazorApp1.csproj",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\BlazorApp1.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\BlazorApp1.csproj",
+              "RelativeToolTip": "..\\BlazorApp1\\BlazorApp1.csproj",
+              "ViewState": "AQIAAAIAAAAAMTMzMzMLwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T11:21:07.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:43:25.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T11:11:43.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:42:01.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "..\\BlazorApp1\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T15:36:38.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240407152433_userInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Migrations\\20240407152433_userInterface.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Migrations\\20240407152433_userInterface.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Migrations\\20240407152433_userInterface.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Migrations\\20240407152433_userInterface.cs",
+              "ViewState": "AQIAAAcAAADQZmZmZmYkwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:24:33.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\appsettings.json",
+              "RelativeToolTip": "..\\BlazorApp1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T10:47:53.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAUAAAAA//////8gwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:36:49.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Models\\Company.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:58:55.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Components\\Routes.razor",
+              "RelativeToolTip": "..\\BlazorApp1\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T11:30:35.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Components\\App.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Components\\App.razor",
+              "RelativeToolTip": "..\\BlazorApp1\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T11:30:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\BlazorApp1\\Models\\User.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T11:09:30.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "supports.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\supports.csproj",
+              "RelativeDocumentMoniker": "supports.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\supports.csproj",
+              "RelativeToolTip": "supports.csproj",
+              "ViewState": "AQIAAAAAAAAAMjMzMzMLwBAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T11:14:44.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplictionDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\Data\\ApplictionDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplictionDBContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\Data\\ApplictionDBContext.cs",
+              "RelativeToolTip": "Data\\ApplictionDBContext.cs",
+              "ViewState": "AQIAAAEAAAAAMDMzMzMbwAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:43:29.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T15:32:03.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:57:26.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ValuesController.cs",
-              "DocumentMoniker": "E:\\dotnet2\\supports\\Controllers\\API\\ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\Controllers\\API\\ValuesController.cs",
               "RelativeDocumentMoniker": "Controllers\\API\\ValuesController.cs",
-              "ToolTip": "E:\\dotnet2\\supports\\Controllers\\API\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\Controllers\\API\\ValuesController.cs",
               "RelativeToolTip": "Controllers\\API\\ValuesController.cs",
-              "ViewState": "AQIAABMAAABgNDMzMzM3wCsAAAAeAAAA",
+              "ViewState": "AQIAAAUAAADgZWZmZmYkwA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T15:33:20.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\dotnet2\\supports\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\dotnet2\\supports\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-03T15:32:03.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "E:\\dotnet2\\supports\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "E:\\dotnet2\\supports\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\dotnet2\\supports\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-03T15:31:59.748Z"
+              "WhenOpened": "2024-04-03T15:31:59.748Z",
+              "EditorCaption": ""
             }
           ]
         }
